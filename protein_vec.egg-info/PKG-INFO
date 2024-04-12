@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: protein-vec
+Version: 1.0.0
+Summary: Protein similarity.
+Author-email: tymorhamamsy@gmail.com
+Maintainer-email: tymorhamamsy@gmail.com
+License: BSD-3-Clause
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Operating System :: Unix
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: MacOS :: MacOS X
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: torch
+Requires-Dist: pysam
+Requires-Dist: scikit-learn
+Requires-Dist: pytorch-lightning
+Requires-Dist: matplotlib
+Requires-Dist: biopython
+Requires-Dist: transformers
+Requires-Dist: SentencePiece

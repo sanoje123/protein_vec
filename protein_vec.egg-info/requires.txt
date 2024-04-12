@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+torch
+pysam
+scikit-learn
+pytorch-lightning
+matplotlib
+biopython
+transformers
+SentencePiece
